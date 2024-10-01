@@ -9,5 +9,7 @@ A remote measurement app for custom tailored outfits.
 3) ML - Model running and measurement extraction
 
 # Demo
-https://github.com/user-attachments/assets/cd0297c9-a834-43a9-a278-49b424be02b2
+https://github.com/user-attachments/assets/eb02d9d0-7308-49b9-a408-fc013327c8eb
+
+
 
